@@ -1,0 +1,23 @@
+{
+  "streams": [
+    {
+      "title": "bb",
+      "description": "cc",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "title": "abcdd",
+      "description": "ddabc",
+      "id": 3
+    },
+    {
+      "title": "t1",
+      "description": "t1",
+      "userId": "114074338044929319381",
+      "id": 4
+    }
+  ]
+}
